@@ -7,8 +7,8 @@ The map uses an **Albers Equal Area projection** for accurate area representatio
 
 ## Live Map
 You can view the interactive map here:  
-[\[Link to GitHub Pages or hosted map\]](https://jonnyjs2.github.io/458lab3/map2.html)
-
+[\[Map 1 Pages\]](https://jonnyjs2.github.io/458lab3/map1.html)
+[\[Map 2 Pages\]](https://jonnyjs2.github.io/458lab3/map2.html)
 ## Screenshots
 ![Map Screenshot](img/map1.png)
 ![Map Screenshot](img/map2.png)
